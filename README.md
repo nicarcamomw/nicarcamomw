@@ -1,5 +1,5 @@
 <div align="center">
-# Nicolás Ignacio Cárcamo Hernández
+ Nicolás Ignacio Cárcamo Hernández
  
 **Ingeniero Informático — Backend Developer**
  
@@ -11,7 +11,7 @@ Puerto Montt, Chile
 [![CV](https://img.shields.io/badge/CV-Descargar-D14836?style=flat-square)](https://github.com/nicarcamomw/nicarcamomw/blob/main/CV%20NICOLAS%20CARCAMO.pdf)
  
 </div>
----
+
  
 ## Perfil profesional
  
@@ -74,6 +74,7 @@ Certificaciones: Inteligencia de Negocios · Análisis y Desarrollo de Modelos d
 </td>
 </tr>
 </table>
+
 **Seguridad y testing:** Helmet.js · CORS · Rate Limiting · RBAC · Zod · Express Validator · Jest · Supertest · Swagger/OpenAPI
  
 **Integraciones de pago:** Transbank (Webpay Plus / Oneclick)
@@ -100,5 +101,5 @@ Busco asumir nuevos desafíos profesionales donde pueda aplicar mi capacidad ana
 ---
  
 <div align="center">
-**Contacto:** [ni.carcamomw@gmail.com](mailto:ni.carcamomw@gmail.com) · +569 33736179 · [LinkedIn](https://www.linkedin.com/in/nicolás-cárcamo-hernández-b38188402/) · [metaworks.dev](https://www.metaworks.dev)
  
+**Contacto:** [ni.carcamomw@gmail.com](mailto:ni.carcamomw@gmail.com) · +569 33736179 · [LinkedIn](https://www.linkedin.com/in/nicolás-cárcamo-hernández-b38188402/) · [metaworks.dev](https://www.metaworks.dev)
